@@ -1,2 +1,3 @@
 variable a=10
-varialble b=20
+variable b=20
+variable c=30
